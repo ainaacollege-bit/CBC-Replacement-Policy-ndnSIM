@@ -78,22 +78,14 @@ Measures the average time required for requested content to be delivered to the 
 The repository is organized as follows:
 
 CBC-Replacement-Policy-ndnSIM/
-│
-├── examples/
-│   Simulation scenario scripts used to run ndnSIM experiments.
-│   These files define network topologies, traffic generation,
-│   and caching configurations.
-│
-├── helper/
-│   Helper modules and utility functions used to support
-│   the simulation environment.
-│
-├── table/
-│   Implementation of the CBC cache replacement mechanism
-│   and related data structures.
-│
-└── README.md
-    Project documentation.
+
+* **examples/** - Simulation scenario scripts used to run ndnSIM experiments. These files define network topologies, traffic generation, and caching configurations.
+
+* **helper/** - Helper modules and utility functions used to support the simulation environment.
+
+* **table/** - Implementation of the CBC cache replacement mechanism and related data structures.
+
+* **README.md** - Project documentation.
 
 # Running the Simulation
 
