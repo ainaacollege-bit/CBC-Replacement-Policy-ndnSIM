@@ -147,3 +147,5 @@ The proposed approach evaluates multiple factors when selecting cache replacemen
 
 This project is intended for **academic and research purposes**.
 
+# Dataset DOI: https://doi.org/10.5281/zenodo.19532521
+
